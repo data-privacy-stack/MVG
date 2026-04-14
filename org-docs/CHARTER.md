@@ -64,3 +64,13 @@ Decisions that cannot be resolved at the project level may be escalated to the T
 
 This Charter may be amended through consensus of the TSC.
 If consensus cannot be reached, amendments may be approved through a majority vote of the TSC.
+
+---
+
+## Attribution and License
+
+This charter includes governance concepts adapted from materials made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Copyright © the respective original authors and contributors.
+
+This document is provided under CC BY 4.0. For the license text, see: https://creativecommons.org/licenses/by/4.0/
