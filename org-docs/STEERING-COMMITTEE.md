@@ -3,7 +3,7 @@
 
 ## Technical Steering Committee (TSC)
 
-The Technical Steering Committee (TSC) is responsible for governance decisions affecting the Presidio project under the open-presidio organization.
+The Technical Steering Committee (TSC) is responsible for governance decisions affecting the Presidio project under the data-privacy-stack organization.
 
 The TSC provides oversight of the project's technical direction and governance in accordance with the CHARTER.md.
 
@@ -18,7 +18,7 @@ The TSC shall:
 
 ## Initial TSC Members
 
-The following individuals have agreed to serve as members of the Technical Steering Committee for the open-presidio organization in their capacity as Presidio Maintainers.
+The following individuals have agreed to serve as members of the Technical Steering Committee for the data-privacy-stack organization in their capacity as Presidio Maintainers.
 
 Name | Affiliation
 -----|------------
@@ -26,9 +26,6 @@ Omri Mendels | Presidio Maintainer
 Nava Vaisman Levy | Presidio Maintainer
 Sharon Hart | Presidio Maintainer
 Coby Peled | Presidio Maintainer
-[TBD] | Presidio Maintainer
-[TBD] | Presidio Maintainer
-[TBD] | Presidio Maintainer
 
 ---
 
