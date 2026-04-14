@@ -28,7 +28,7 @@ This includes:
 - Governance policy development and enforcement
 - Coordination of contributions to the Presidio project
 
-The organization does not govern any trademark or registered intellectual property associated with the Presidio project, as no trademark currently exists.
+The organization does not govern any trademark or registered intellectual property associated with the Presidio project. No trademark for the Presidio name currently exists under this organization. The Presidio project is an independent open-source project and is not affiliated with any other product, company, or entity using the Presidio name.
 
 ---
 
