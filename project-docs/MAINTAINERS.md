@@ -15,13 +15,7 @@ Participation as a Maintainer reflects a role within the Presidio project and do
 
 ## Current Maintainers
 
-Name | Affiliation
------|------------
-[TBD] | Presidio Maintainer
-[TBD] | Presidio Maintainer
-[TBD] | Presidio Maintainer
-[TBD] | Presidio Maintainer
-[TBD] | Presidio Maintainer
+No maintainers are listed at this time. Add actual individual names and affiliations here via Pull Request once maintainer appointments have been confirmed under the project governance process.
 
 ---
 
