@@ -1,12 +1,43 @@
-# Steering Committee
 
-This document lists the members of the Organization's Steering Committee. Voting members may be added once approved by the Steering Committee as described in the [charter](./CHARTER.md). By adding your name to this list you are agreeing to abide by all Organization polices, including the [charter](./CHARTER.md), the [code of conduct](./CODE-OF-CONDUCT.md), the [trademark policy](./TRADEMARKS.md), and the [antitrust policy](./ANTITRUST.md). If you are serving on the Steering Committee because of your affiliation with another organization (designated below), you represent that you have authority to bind that organization to these policies.
+# STEERING-COMMITTEE.md
 
-| **NAME** | **Handle** | **Affiliated Organization** |
-| --- | --- | --- |
-| [Steering Committee Member] | [handle ] | [affiliation] |
-|  ... | ... | ... |
+## Technical Steering Committee (TSC)
+
+The Technical Steering Committee (TSC) is responsible for governance decisions affecting the Presidio project under the open-presidio organization.
+
+The TSC provides oversight of the project's technical direction and governance in accordance with the CHARTER.md.
+
+The TSC shall:
+
+- Coordinate the technical direction of the Presidio project
+- Resolve disputes escalated from project maintainers
+- Ensure alignment with project governance policies
+- Make organization-level governance decisions when consensus cannot be reached at the project level
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+## Initial TSC Members
+
+The following individuals have agreed to serve as members of the Technical Steering Committee for the open-presidio organization in their capacity as Presidio Maintainers.
+
+Name | Affiliation
+-----|------------
+Omri Mendels | Presidio Maintainer
+Nava Vaisman Levy | Presidio Maintainer
+Sharon Hart | Presidio Maintainer
+Coby Peled | Presidio Maintainer
+[TBD] | Presidio Maintainer
+[TBD] | Presidio Maintainer
+[TBD] | Presidio Maintainer
+
+---
+
+## Participation
+
+TSC members participate in governance in their capacity as project maintainers and not as representatives of any employer or vendor organization.
+
+---
+
+## Amendments
+
+Membership of the TSC may be amended in accordance with the governance procedures described in the CHARTER.md.

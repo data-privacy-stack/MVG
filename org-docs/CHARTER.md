@@ -1,61 +1,74 @@
-# Charter for the [FIXME] Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+# CHARTER.md
 
-## 1. Mission
+## 1. Organization Mission
 
-[Set out mission of the Organization].
+The mission of the open-presidio organization is to steward the Presidio open source project by providing governance, coordination, and decision-making structures that support its continued development, adoption, and sustainability as a privacy-focused technical foundation.
 
-## 2. Steering Committee
+The open-presidio organization exists to:
 
-**2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
+- Provide transparent, consensus-based, and vendor-neutral governance for the Presidio project
 
-**2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
-Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
-The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
+- Coordinate the technical direction and long-term sustainability of Presidio
 
-## 3. Voting
+- Enable collaboration among contributors, maintainers, and participating organizations
 
-**3.1. Decision Making**. The Steering Committee will strive for all decisions to be made by consensus. While explicit agreement of the entire Steering Committee is preferred, it is not required for consensus. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee and nature of support and objections. The Steering Committee will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Steering Committee will make the decision by a vote.
+- Support the development and maintenance of privacy-preserving data detection and protection capabilities within the Presidio project
 
-**3.2. Voting**. The Steering Committee Chair will call a vote with reasonable notice to the Steering Committee, setting out a discussion period and a separate voting period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. Except as specifically noted elsewhere in this Charter, decisions by vote require a simple majority vote of all voting members.
+- Facilitate the responsible evolution of Presidio through community participation and maintainership
 
-## 4. Termination of Membership
-
-In addition to the method set out in section 2.2, the membership of a Steering Committee member will terminate if any of the following occur:
-
-**4.1 Resignation**. Written notice of resignation to the Steering Committee.
-
-**4.2 Unreachable Member**. If a member is unresponsive at its listed handle for more than three months the Steering Committee may vote to remove the member.
-
-## 5. Trademarks
-
-Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organization's activities or Organization projects' activities (the "Marks"), are controlled by the Organization. Steering Committee members may only use the Marks in accordance with the Organization's [trademark policy](./TRADEMARKS.md). If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organization.
-
-## 6. Antitrust Policy
-
-The Steering Committee is bound by the Organization's [antitrust policy](./ANTITRUST.md).
-
-## 7. No Confidentiality
-
-Information disclosed in connection with any of the Organization's activities, including but not limited to meetings, Contributions, and submissions, is not confidential, regardless of any markings or statements to the contrary.
-
-## 8. Project Criteria
-
-In order to be eligible to be a Organization project, a project must:
-
-* Be approved by the Steering Committee.
-* Agree to follow the guidance and direction of the Steering Committee.
-* Use only the following outbound licenses or agreements unless otherwise approved:
-  - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
-  - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
-  - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
-* Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
-
-## 9. Amendments
-
-Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
+The scope of this mission is limited to governance of the core Presidio project and does not extend to the governance of external tools, integrations, or related sub-projects unless explicitly admitted through amendment to this Charter.
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+## 2. Scope of Authority
+
+The open-presidio organization is responsible for the governance of the Presidio project.
+
+This includes:
+
+- Oversight of technical direction and roadmap
+- Maintainer appointment and removal
+- Governance policy development and enforcement
+- Coordination of contributions to the Presidio project
+
+The organization does not govern any trademark or registered intellectual property associated with the Presidio project, as no trademark currently exists.
+
+---
+
+## 3. Organizational Structure
+
+The open-presidio organization shall operate under a Technical Steering Committee (TSC) responsible for governance decisions affecting the Presidio project.
+
+The TSC is responsible for:
+
+- Coordinating technical direction of the Presidio project
+- Resolving disputes escalated from project maintainers
+- Managing project-level governance alignment
+- Making organization-level governance decisions when consensus cannot be reached at the project level
+
+---
+
+## 4. Decision Making
+
+Decisions within the open-presidio organization shall be made using a consensus-based approach.
+
+Consensus shall be defined as general agreement among participating TSC members, with reasonable efforts made to address outstanding objections.
+
+If consensus cannot be reached, decisions may be resolved by a majority vote of the TSC.
+
+---
+
+## 5. Project Governance
+
+The Presidio project shall maintain lightweight, consensus-based governance among project maintainers.
+
+Decisions that cannot be resolved at the project level may be escalated to the TSC.
+
+---
+
+## 6. Amendments
+
+This Charter may be amended through consensus of the TSC.
+
+If consensus cannot be reached, amendments may be approved through a majority vote of the TSC.
