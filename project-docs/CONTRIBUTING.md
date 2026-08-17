@@ -1,11 +1,36 @@
-# Contributing
+<!-- markdownlint-disable-file -->
 
-This Project welcomes contributions, suggestions, and feedback. All contributions, suggestions, and feedback you submitted are accepted under the [Project's license](./LICENSE.md). You represent that if you do not own copyright in the code that you have the authority to submit it under the [Project's license](./LICENSE.md). All feedback, suggestions, or contributions are not confidential.
+# Contributing to [PROJECT NAME]
 
-[Should be further filled in by the project - including defining the requirements to reach maintainer status]
+We welcome contributions, suggestions, and feedback from the community.
 
-The Project abides by the Organization's [code of conduct](../org-docs/CODE-OF-CONDUCT.md) and [trademark policy](../org-docs/TRADEMARKS.md).
+## Before you contribute
 
----
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+* Read and follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
+* Review the project documentation and existing issues before proposing work.
+* Report security vulnerabilities through the private channel in
+	[SECURITY.md](./SECURITY.md), not through a public issue.
+
+## Propose a change
+
+1. Open an issue or discussion describing the problem and proposed outcome.
+2. Fork the repository and create a focused branch.
+3. Add or update tests and documentation with the implementation.
+4. Open a pull request that links the relevant issue and explains the change.
+5. Respond to review feedback and keep the branch current until merge.
+
+Project maintainers may define additional contribution requirements in this
+section, including development setup, testing commands, sign-off requirements,
+and release expectations.
+
+## Contribution terms
+
+Contributions are submitted under the [project license](./LICENSE). You
+represent that you own the contribution or have authority to submit it under
+that license. Contributions, suggestions, and feedback are not confidential.
+
+## Becoming a maintainer
+
+The eligibility and approval process for maintainers is defined in
+[GOVERNANCE.md](./GOVERNANCE.md). Current maintainers are listed in
+[MAINTAINERS.md](./MAINTAINERS.md).
