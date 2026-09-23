@@ -1,60 +1,57 @@
+<!-- markdownlint-disable-file -->
 
-# GOVERNANCE.md
+# Governance for [PROJECT NAME]
 
-## Project Governance
+## Project governance
 
-The Presidio project operates under the governance of the data-privacy-stack organization as defined in the organization's CHARTER.md.
-Governance of the Presidio project is conducted by its Maintainers through a lightweight, consensus-based decision-making process.
+[PROJECT NAME] operates under the governance of [ORGANIZATION NAME]. Project
+maintainers use a lightweight, consensus-based process to govern the project.
 
----
+## Decision making
 
-## Decision Making
+Maintainers make project decisions by consensus. Consensus means general
+agreement among participating maintainers after reasonable, good-faith efforts
+to address objections. It does not require unanimity.
 
-Project decisions are made by consensus among Maintainers.
-Consensus is defined as general agreement among participating Maintainers, with reasonable efforts made to address any objections raised during discussion.
-Consensus does not require unanimous agreement but reflects the dominant view of participating Maintainers after good-faith consideration of differing perspectives.
-Decisions should be discussed and documented through open project communication channels whenever possible.
+Maintainers discuss and document decisions through open project channels when
+possible. Decisions with lasting architectural or governance impact should be
+recorded in [PROJECT DECISION RECORD LOCATION].
 
----
-
-## Maintainer Authority
+## Maintainer authority
 
 Maintainers are responsible for:
 
-- Reviewing and approving project contributions
-- Managing pull requests and issue triage
-- Maintaining the quality and direction of the project
-- Participating in project governance decisions
-- Keeping the project secure, maintained, usable and modern
+* Reviewing and approving contributions
+* Managing pull requests and issue triage
+* Maintaining project quality and technical direction
+* Participating in governance decisions
+* Keeping the project secure, maintained, usable, and current
 
-Maintainers are expected to act in the best interests of the Presidio project and its community.
-Participation in governance reflects a role within the project and does not imply representation of any employer or vendor organization.
-
----
+Maintainers act in the interests of the project and its community.
+Participation in governance does not imply representation of an employer or
+vendor.
 
 ## Escalation
 
-If consensus cannot be reached among Maintainers, the matter may be escalated to the Technical Steering Committee (TSC) of the data-privacy-stack organization for resolution.
-The TSC will make a determination in accordance with the organizational governance procedures defined in the CHARTER.md.
+When maintainers cannot reach consensus, they may escalate the decision to
+[ORGANIZATION GOVERNANCE BODY] through [ESCALATION CHANNEL]. The organization
+governance body resolves the matter under its documented procedures.
 
----
+## Adding maintainers
 
-## Adding Maintainers
+Existing maintainers may nominate a new maintainer based on sustained,
+constructive project participation. The existing maintainers approve the
+appointment by consensus. The appointment becomes effective when the change to
+[MAINTAINERS.md](./MAINTAINERS.md) is merged.
 
-New Maintainers may be proposed by existing Maintainers.
-Proposed Maintainers shall be approved by consensus of the existing Maintainers.
-Changes to Maintainer status must be made through a Pull Request to the MAINTAINERS.md file.
+## Removing maintainers
 
----
-
-## Removing Maintainers
-
-Maintainers may be removed by consensus of the remaining Maintainers if necessary for the continued health of the project.
-Removal decisions should be documented through project communication channels.
-
----
+The remaining maintainers may remove a maintainer by consensus when removal is
+necessary for the continued health of the project. The decision and resulting
+change to [MAINTAINERS.md](./MAINTAINERS.md) must follow the project's normal
+review process while respecting confidential or sensitive information.
 
 ## Amendments
 
-This governance document may be amended by consensus of the Maintainers.
-If consensus cannot be reached, proposed amendments may be escalated to the TSC.
+Maintainers may amend this governance document by consensus. Unresolved
+amendments follow the escalation process above.

@@ -1,36 +1,28 @@
+<!-- markdownlint-disable-file -->
 
-# MAINTAINERS.md
+# Maintainers of [PROJECT NAME]
 
-## Maintainers
+## Current maintainers
 
-This document lists the Maintainers of the Presidio project under the data-privacy-stack organization.
+| Name | GitHub handle | Affiliation |
+|------|---------------|-------------|
+| [NAME] | [@HANDLE] | [AFFILIATION OR INDEPENDENT] |
 
-Maintainers may be added once approved by the existing maintainers as described in the [project governance documents](../org-docs/GOVERNANCE.md).
-
-By adding your name to this list you are agreeing to abide by the [project governance documents](../org-docs/GOVERNANCE.md) and all of the organization's policies, including the [Code of Conduct](../org-docs/CODE-OF-CONDUCT.md) and any applicable governance policies adopted by the data-privacy-stack organization.
-
-Participation as a Maintainer reflects a role within the Presidio project and does not imply representation of any employer or vendor organization.
-
----
-
-## Current Maintainers
-
-No maintainers are listed at this time. Add actual individual names and affiliations here via Pull Request once maintainer appointments have been confirmed under the project governance process.
-
----
-
-## Adding or Removing Maintainers
-
-Changes to the list of Maintainers must be made via Pull Request to this document and approved in accordance with the project governance procedures.
-
----
+Maintainers participate in their project role and do not represent an employer
+or vendor unless explicitly stated.
 
 ## Responsibilities
 
 Maintainers are responsible for:
 
-- Reviewing and approving contributions to the Presidio project
-- Participating in project governance decisions
-- Upholding project policies and community standards
-- Escalating governance matters to the Technical Steering Committee when required
-- Making sure the project is secure, maintained, usable and modern
+* Reviewing and approving contributions
+* Participating in project governance decisions
+* Upholding project policies and community standards
+* Responding to security and maintenance needs
+* Escalating unresolved governance matters when required
+
+## Membership changes
+
+Additions and removals follow [GOVERNANCE.md](./GOVERNANCE.md). Every membership
+change must be made through a pull request to this file and approved under the
+project's governance process.
